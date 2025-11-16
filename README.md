@@ -50,7 +50,7 @@ Based in **Garner, North Carolina** with my wife and two kids (including a newbo
 If you're building something in secure cloud, AI, or payments, or you just want to trade notes on how old ideas help with new problems—reach out!
 
 - 🌐 Website: [pawankhandavilli.com](https://pawankhandavilli.com)
-- 💼 LinkedIn: [linkedin.com/in/pawankhandavilli](https://linkedin.com/in/pawankhandavilli)
+- 💼 LinkedIn: [linkedin.com/in/pawankhandavilli](https://linkedin.com/in/khpawan)
 - 🐦 Twitter/X: [@khpawan](https://twitter.com/khpawan)
 
 ---
