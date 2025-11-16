@@ -13,8 +13,7 @@ I'm a **Senior Product Manager at Microsoft** working on Azure's confidential co
 - **Payment Systems**: Background in mobile payments (Apple Pay, Android Pay, tokenization)
 
 ### 🛠️ Expertise
-- **Cloud Platforms**: Azure, AWS, GCP
-- **Technologies**: Confidential Computing, TEEs, Containers, Cloud Operations
+- **Technologies**: Confidential Computing, TEEs, Containers
 - **Domains**: Security Architecture, Payment Protocols (AP2), AI/ML Systems, Blockchain
 - **Product**: Innovation teams, security architecture, responsible AI implementation
 
